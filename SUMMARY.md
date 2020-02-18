@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Awesome Sponge](README.md)
 
 ## 性能调优
 
