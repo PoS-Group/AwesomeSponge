@@ -4,6 +4,6 @@
 
 ## 插件文档
 
-* [Nucleus](cha-jian-wen-dang/nucleus/README.md)
+* [Nucleus —— 海绵的核心动力](cha-jian-wen-dang/nucleus/README.md)
   * [常见问题](cha-jian-wen-dang/nucleus/chang-jian-wen-ti.md)
 
