@@ -2,19 +2,19 @@
 
 * [Awesome Sponge](README.md)
 
-## 服务端文档
+## 服务端文档 <a id="config"></a>
 
-* [配置文件](fu-wu-duan-wen-dang/pei-zhi-wen-jian.md)
+* [配置文件](config/pei-zhi-wen-jian.md)
 
-## 插件文档
+## 插件文档 <a id="plugin"></a>
 
-* [Nucleus —— 海绵的核心动力](cha-jian-wen-dang/nucleus/README.md)
-  * [常见问题](cha-jian-wen-dang/nucleus/chang-jian-wen-ti.md)
-* [Command Utils —— 强大的指令工具](cha-jian-wen-dang/command-utils.md)
-* [EpicBanItem —— 基于 NBT 的物品封禁](cha-jian-wen-dang/epicbanitem/README.md)
-  * [实例](cha-jian-wen-dang/epicbanitem/shi-li/README.md)
-    * [限制物品耐久上限](cha-jian-wen-dang/epicbanitem/shi-li/xian-zhi-wu-pin-nai-jiu-shang-xian.md)
-    * [拾取绑定](cha-jian-wen-dang/epicbanitem/shi-li/shi-qu-bang-ding.md)
-* [LuckPerms —— 完善优质的权限管理](cha-jian-wen-dang/luckperms/README.md)
-  * [常见问题](cha-jian-wen-dang/luckperms/chang-jian-wen-ti.md)
+* [Nucleus —— 海绵的核心动力](plugin/nucleus/README.md)
+  * [常见问题](plugin/nucleus/chang-jian-wen-ti.md)
+* [Command Utils —— 强大的指令工具](plugin/command-utils.md)
+* [EpicBanItem —— 基于 NBT 的物品封禁](plugin/epicbanitem/README.md)
+  * [实例](plugin/epicbanitem/shi-li/README.md)
+    * [限制物品耐久上限](plugin/epicbanitem/shi-li/xian-zhi-wu-pin-nai-jiu-shang-xian.md)
+    * [拾取绑定](plugin/epicbanitem/shi-li/shi-qu-bang-ding.md)
+* [LuckPerms —— 完善优质的权限管理](plugin/luckperms/README.md)
+  * [常见问题](plugin/luckperms/chang-jian-wen-ti.md)
 
