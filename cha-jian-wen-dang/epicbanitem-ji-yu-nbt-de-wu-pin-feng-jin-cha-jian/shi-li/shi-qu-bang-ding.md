@@ -28,6 +28,8 @@
 
 
 
+下附此次配置
+
 ```text
 bounded {
     custom-message="{item_pre}已绑定！"
