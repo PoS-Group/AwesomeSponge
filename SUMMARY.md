@@ -2,11 +2,11 @@
 
 * [Awesome Sponge](README.md)
 
-## 服务端文档 <a id="config"></a>
+## 服务端 <a id="server"></a>
 
-* [配置文件](config/pei-zhi-wen-jian.md)
+* [配置文件](server/pei-zhi-wen-jian.md)
 
-## 插件文档 <a id="plugin"></a>
+## 插件 <a id="plugin"></a>
 
 * [Nucleus —— 海绵的核心动力](plugin/nucleus/README.md)
   * [常见问题](plugin/nucleus/chang-jian-wen-ti.md)
