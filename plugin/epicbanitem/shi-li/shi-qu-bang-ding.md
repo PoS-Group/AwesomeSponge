@@ -2,7 +2,7 @@
 
 ## 1. 通过 [Nucleus](../../nucleus/) 添加一条描述到任一物品
 
-![/lore add &amp;7&#x6B64;&#x7269;&#x54C1;&#x62FE;&#x53D6;&#x540E;&#x7ED1;&#x5B9A;](../../../.gitbook/assets/image%20%2810%29.png)
+![/lore add &amp;7&#x6B64;&#x7269;&#x54C1;&#x62FE;&#x53D6;&#x540E;&#x7ED1;&#x5B9A;](../../../.gitbook/assets/image%20%2815%29.png)
 
 ## 2. 查询当前标签内容
 
