@@ -2,5 +2,5 @@
 
 🇺🇸 [官方文档](https://github.com/lucko/LuckPerms/wiki)
 
-🇨🇳 [中文文档](https://github.com/PluginsCDTribe/LuckPerms/wiki)
+🇨🇳 [中文文档](https://pluginscdtribe.github.io/wiki/luckperms/)
 
